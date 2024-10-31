@@ -31,7 +31,7 @@
   "GENDER": "MALE",
   "nickNameBot": "Sarkari gf",
   "FACEBOOK": "https://www.facebook.com/Legend.king.jalvanshi",
-  "prefix": ",",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -42,7 +42,7 @@
   "timeZone": "Asia/Kolkata",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
+      "email": "adityakumar9548950035@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
